@@ -1,0 +1,78 @@
+TASK1:
+GitHub commands practice completed
+
+TASK 2: MERGE AND REBASE
+Merging is a safe option that preserves the entire history of your repository, 
+while rebasing creates a linear history by moving your feature branch onto the tip of main .
+The git rebase command has a reputation for being magical Git hocus pocus that beginners should stay away from, but it can actually make life much easier for a development team when used with care. In this article, we’ll compare git rebase with the related git merge command and identify all of the potential opportunities to incorporate rebasing into the typical Git workflow.
+
+TASK3:,TASK4:- aws login id and passwords are invalid
+
+TASK 5:
+*************************************************Amazon SageMaker for MLOps******************************************************8
+Deliver high-performance production ML models quickly at scale
+google explore:
+Amazon SageMaker is a cloud-based machine-learning platform that allows the creation, training, and deployment by developers of machine-learning models on the cloud. It can be used to deploy ML models on embedded systems and edge-devices. The platform was launched in November 2017. Wikipedia
+
+1.Why Amazon SageMaker MLOps
+ Amazon SageMaker provides purpose-built tools for machine learning operations (MLOps) to              help you automate and standardize processes across the ML lifecycle. Using SageMaker MLOps tools, you can easily train, test, troubleshoot, deploy, and govern ML models at scale to boost productivity of data scientists and ML engineers while maintaining model performance in product.
+
+2.Benefits of SageMaker for MLOps Teams
+  Amazon SageMaker helps MLOps teams build, train and deploy models in less time and with minimal effort and maximum efficiency.5 Apr 2023
+
+3.Benefits of SageMaker MLOps
+  1.Efficient Model Workflows
+  2.Centralized ML Governance
+  3.ML CI/CD Integration
+  4.Continuous Quality Monitoring
+
+4.steps to use amazon sagemaker:
+  Step 1: Create an Amazon SageMaker Notebook Instance for the tutorial.
+  Step 2: Create a Jupyter notebook in the SageMaker notebook instance.
+  Step 3: Download, Explore, and Transform Data.
+  Step 4: Train a Model.
+  Step 5: Deploy the Model.
+  Step 6: Evaluate the Model.
+  Step 7: Clean Up Amazon SageMaker notebook instance resources
+
+5.What can I do with Amazon SageMaker?
+  With SageMaker, you can build, train and deploy ML models at scale using tools like
+notebooks, debuggers, profilers, pipelines, MLOps, and more – all in one integrated development environment (IDE).
+
+6.What are the advantages of using MLOps?
+MLOps can significantly reduce costs over the entire machine learning lifecycle:
+Automation minimizes the manual efforts to manage machine learning models. This will free up employee time which can be used for more productive tasks.
+It enables you to detect and reduce errors more systematically.
+
+TASK 6:
+***************************AWS CodePipeline*********************************************
+
+1.DEFINITION:
+          Automate continuous delivery pipelines for fast and reliable updates
+          A pipeline definition specifies the business logic of your data management. For more information, see Pipeline definition file syntax. A pipeline schedules and runs tasks by                          C         Creating Amazon EC2 instances to perform the defined work activities.
+
+2. Using AWS CodePipeline for CI/CD offers several benefits, as highlighted by various sources:
+   I. Automation and Efficiency: - AWS CodePipeline automates release pipelines, ensuring fast and reliable application updates. ...
+   II. Integration with AWS Services: ...
+   III. Cost-Effectiveness: ...
+   IV. Speed of Execution: ...
+   V.  Reliability and Scalability:
+
+3.Advantages of pipeline transportation
+  According to the size of its pipe diameter, its annual transportation volume can reach millions of tons to tens of millions of tons, or even more than 100 million tons. (2) Occupy less land. (3) The pipeline transportation construction period is short and the cost is low.1 Dec 2023
+
+4.What is the main benefit of AWS?
+AWS CodePipeline allows you to define your pipeline structure through a declarative JSON document that specifies your release workflow and its stages and actions. These documents enable you to update existing pipelines as well as provide starting templates for creating new pipelines.
+
+5.steps to use aws codepipline?
+Step 1: Create an AWS account and administrative user. Sign up for an AWS account. ...
+Step 2: Apply a managed policy for administrative access to CodePipeline. You must grant permissions to interact with CodePipeline. ...
+Step 3: Install the AWS CLI. ...
+Step 4: Open the console for CodePipeline
+
+
+
+
+
+
+
